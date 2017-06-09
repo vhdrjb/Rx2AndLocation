@@ -29,16 +29,3 @@ and now you can use location :
 ```
 
 
-## Dependency 
-add to build.gradle (Project)
-```java
-repositories {
-            ...
-            maven { url 'https://jitpack.io' }
-        }
-
-```
-
-``` java 
-            compile 'com.github.vhdrjb:Rx2AndLocation:1.0.0'
-```
