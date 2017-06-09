@@ -2,7 +2,7 @@
 
 There is an [Android Reactive Location](https://github.com/mcharmas/Android-ReactiveLocation) with Rx 1
 
-this library use android [FusedLocationProviderClient](https://developer.android.com/training/location/retrieve-current.html) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+this library use android [FusedLocationProviderClient](https://developer.android.com/training/location/retrieve-current.html) and [RxAndroid 2](https://github.com/ReactiveX/RxAndroid)
 
 ## How to use
 
